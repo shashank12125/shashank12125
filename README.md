@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashank12125
 - 👀 I’m interested in Software Programming 
-- 🌱 I’m currently learning Java Programming 
+- 🌱 I’m currently learning Java Language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shashankcharpe5652@gmail.com
 - 😄 Pronouns: ...
