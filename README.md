@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shashankcharpe5652@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: MCA STUDENT
+- ⚡ Fun fact: BCA DONE ✅ MCA RUNNING
 
 <!---
 shashank12125/shashank12125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
